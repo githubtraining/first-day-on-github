@@ -9,7 +9,7 @@ steps:
     description: >-
       Hey, it's your first time here, so let's not take any chances. Check out
       this short video to understand why people use GitHub.
-  - course: githubtraining/introduction-to-github
+  - course: introduction-to-github
     description: >-
       That video is pretty cool, right? If you want to learn how to use the
       workflow described in that video, take this course.
@@ -19,12 +19,12 @@ steps:
       By now you are probably wondering what a Git is and why it is important in
       writing code. We have you covered with this short article on version
       control with Git.
-  - course: githubtraining/communicating-using-markdown
+  - course: communicating-using-markdown
     description: >-
       GitHub is all about collaboration and we collaborate in issues in pull
       requests. Learn how to get your point across with the worlds easiest text
       formatting syntax.
-  - course: githubtraining/uploading-your-project-to-github
+  - course: uploading-your-project-to-github
     description: >-
       Now that you know what GitHub does, I bet you're ready to move all of
       those projects off your local machine. This course will show you how.
