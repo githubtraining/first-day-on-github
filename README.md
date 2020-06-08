@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: First Day on GitHub</h1>
 
-This repository powers the Learning Lab course [_First Day on GitHub_](https://lab.github.com/githubtraining/first-day-on-github). 
+This repository powers the Learning Path [_First Day on GitHub_](https://lab.github.com/githubtraining/first-day-on-github). 
 
 ## Contribute
 
