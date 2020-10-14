@@ -23,8 +23,8 @@ steps:
       es:
         title: ¿Qué es GitHub?
         description: >-
-         Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
-         breve video para entender por qué la gente usa GitHub.
+          Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
+          breve video para entender por qué la gente usa GitHub.
   - course: introduction-to-github
     description: >-
       That video is pretty cool, right? If you want to learn how to use the
@@ -32,8 +32,8 @@ steps:
     translations:
       es:
         description: >-
-        El video está bien, ¿verdad? Si quieres aprender a usar el flujo de 
-        trabajo descrito en el video, sigue este curso.
+          El video está bien, ¿verdad? Si quieres aprender a usar el flujo de 
+          trabajo descrito en el video, sigue este curso.
   - link: 'https://guides.github.com/introduction/git-handbook/'
     title: Git Handbook
     description: >-
@@ -44,9 +44,9 @@ steps:
       es:
         title: Manual de Git
         description: >-
-        A estas alturas probablemente te estás preguntando qué es Git y por qué es
-        importante para escribir código. Aquí tienes un breve artículo sobre 
-        control de versiones con Git.
+          A estas alturas probablemente te estás preguntando qué es Git y por qué es
+          importante para escribir código. Aquí tienes un breve artículo sobre 
+          control de versiones con Git.
   - course: communicating-using-markdown
     description: >-
       GitHub is all about collaboration and we collaborate in issues in pull
@@ -55,9 +55,9 @@ steps:
     translations:
       es:
         description: >-
-        GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
-        parte de _pull requests_. Aprende a transmitir lo que sabes con la sintaxis
-        para formatear texto más fácil del mundo.
+          GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
+          parte de _pull requests_. Aprende a transmitir lo que sabes con la sintaxis
+          para formatear texto más fácil del mundo.
   - course: uploading-your-project-to-github
     description: >-
       Now that you know what GitHub does, I bet you're ready to move all of
@@ -65,6 +65,6 @@ steps:
     translations:
       es:
         description: >-
-        Ahora que sabes lo que hace GitHub, me juego algo a que estás en condiciones
-        de mover todos esos proyectos fuera de tu máquina local. Este curso te 
-        enseñará cómo.
+          Ahora que sabes lo que hace GitHub, me juego algo a que estás en condiciones
+          de mover todos esos proyectos fuera de tu máquina local. Este curso te 
+          enseñará cómo.
