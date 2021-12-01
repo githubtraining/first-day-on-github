@@ -37,7 +37,7 @@ steps:
   - link: 'https://guides.github.com/introduction/git-handbook/'
     title: Git Handbook
     description: >-
-      By now you are probably wondering what a Git is and why it is important in
+      By now you are probably wondering what Git is and why it is important in
       writing code. We have you covered with this short article on version
       control with Git.
     translations:
@@ -49,8 +49,8 @@ steps:
           control de versiones con Git.
   - course: communicating-using-markdown
     description: >-
-      GitHub is all about collaboration and we collaborate in issues in pull
-      requests. Learn how to get your point across with the worlds easiest text
+      GitHub is all about collaboration and we collaborate in issues and pull
+      requests. Learn how to get your point across with the world's easiest text
       formatting syntax.
     translations:
       es:
